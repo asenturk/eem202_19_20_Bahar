@@ -2,7 +2,7 @@
 
 Dr. Öğr. Üyesi Ali ŞENTÜRK   
 eposta: alisenturk@isparta.edu.tr   
-GitHub: [github.com/asenturk/eem202](./)   
+GitHub: [github.com/asenturk/eem202](#)   
 Twitter: @asntrk
 
 ---
