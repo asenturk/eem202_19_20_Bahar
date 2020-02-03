@@ -1,9 +1,9 @@
----   
+ 
 **Kitaplar (03.02.2020)**   
-* *Fundamentals of Electric Circuits - Elektrik Devrelerinin Temelleri, Alexander & Sadiku*
-* Electric Circuits - Elektrik Devreleri, Nilsson & Riedel
-* Elektrik Devreleri, Turgut İkiz, Papatya Bilişim
-* Elektrik Devre Analizi 2, Şerafettin Özbey, Seçkin Yayıncılık
+- Fundamentals of Electric Circuits - Elektrik Devrelerinin Temelleri, Alexander & Sadiku
+- Electric Circuits - Elektrik Devreleri, Nilsson & Riedel
+- Elektrik Devreleri, Turgut İkiz, Papatya Bilişim
+- Elektrik Devre Analizi 2, Şerafettin Özbey, Seçkin Yayıncılık
 
 ---   
 **Devamsızlık ve Notlandırma** (12.02.2019)   
