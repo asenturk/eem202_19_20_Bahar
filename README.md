@@ -1,5 +1,5 @@
 **Ders İçeriği (11.02.2020)**   
-Bu dönem ders boyunca işlenecek olan konular:
+Devre Analizi 2 dersinde işlenecek  konular:
 - Kararlı Durumu Alternatif Akım (AC) Devreleri
 - Kuplajlı Devreler
 - AC Güç Analizi
