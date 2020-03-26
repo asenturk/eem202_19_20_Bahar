@@ -1,3 +1,14 @@
+**Ders notları (26.03.2020)**   
+
+Tüm ders notları eklenmiştir:   
+https://github.com/asenturk/eem202/tree/master/Dersler
+
+Ders notlarını indirmekte problem yaşayanlar tüm dosyaları indirerek ders notlarına ulaşabilir:   
+![ornek devre](./download.png)
+
+---
+ 
+
 **Ders İçeriği (11.02.2020)**   
 Devre Analizi 2 dersinde işlenecek  konular:
 - Kararlı Durumu Alternatif Akım (AC) Devreleri
