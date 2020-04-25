@@ -1,3 +1,20 @@
+**Arasınav Ödevi (25.04.2020)**   
+
+Arasınav yerine geçecek sorulara ve cevap şablonuna [Arasınav Ödev](./Arasinav_Odev)  klasöründen ulaşabilirsiniz.
+
+Yeni açıklanan [akademik takvime](https://www.isparta.edu.tr/duyuru/8551/2019-2020-egitim-ogretim-yili-bahar-yariyili-akademik-takvim-degisikligi) göre en geç 22 Mayıs 2020 tarihine göre bu soruların cevaplanması gerekmektedir.
+
+Bu sorular OBS'ye yüklenecek ve tüm cevaplar OBS'de toplanacaktır.
+
+Lütfen yazılan talimatları dikkatli bir şekilde oluyunuz ve çalışmalarınızı bu talimatlara göre yapınız.
+
+Kolay gelsin.
+
+---
+
+
+
+
 **Ders notları (26.03.2020)**   
 
 Tüm ders notları eklenmiştir:   
